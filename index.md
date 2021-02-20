@@ -20,4 +20,6 @@ I will use this section to display any personal projects I may have in the futur
 
 Want to get in touch? Please email me at either `zlouie98@gmail.com` or `zlouie@ucsc.edu`.  I'm always happy to connect!
 
+![Image](https://github.com/ZacharyGLouie/zacharyglouie/blob/gh-pages/images/Me.png)
+
 [Link](url) and ![Image](src)
