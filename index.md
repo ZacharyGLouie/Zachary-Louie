@@ -3,7 +3,8 @@
 Hi how are you? I'm glad you stumbled across my personal webpage.  I plan to use this site as a means to prublicaly display my personal projects.  Welcome again!
 
 ### About Me
-![Image](https://github.com/ZacharyGLouie/zacharyglouie/blob/gh-pages/images/Me.png)
+![alt_text2](https://picsum.photos/200/200)
+![alt_text](https://github.com/ZacharyGLouie/zacharyglouie/blob/gh-pages/images/Me.png)
 
 Hi, my name is Zachary Louie.  I'm currently a 4th year college student at the University of California, Santa Cruz.  I'm currently studying Computer Science and Cognitive Science and some of my interests include, frontend design, backend design, and user experience.  My goal after graduation is to become a UI / UX designer where I hope to provide exceptional user experience on this platform we call the Internet.  
 
