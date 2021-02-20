@@ -5,6 +5,7 @@ Hi how are you? I'm glad you stumbled across my personal webpage.  I plan to use
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### About Me
+[Image](https://github.com/ZacharyGLouie/zacharyglouie/blob/gh-pages/images/Me.png)
 
 Hi, my name is Zachary Louie.  I'm currently a 4th year college student at the University of California, Santa Cruz.  I'm currently studying Computer Science and Cognitive Science and some of my interests include, frontend design, backend design, and user experience.  My goal after graduation is to become a UI / UX designer where I hope to provide exceptional user experience on this platform we call the Internet.  
 
@@ -19,7 +20,3 @@ I will use this section to display any personal projects I may have in the futur
 ### Contact Me
 
 Want to get in touch? Please email me at either `zlouie98@gmail.com` or `zlouie@ucsc.edu`.  I'm always happy to connect!
-
-![Image](https://github.com/ZacharyGLouie/zacharyglouie/blob/gh-pages/images/Me.png)
-
-[Link](url) and ![Image](src)
