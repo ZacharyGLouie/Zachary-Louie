@@ -1,7 +1,3 @@
-## Welcome to my Webpage!
-
-Hi how are you? I'm glad you stumbled across my personal webpage.  I plan to use this site as a means to prublicaly display my personal projects.  Welcome again!
-
 ### About Me
 ![alt_text](https://raw.githubusercontent.com/ZacharyGLouie/Zachary-Louie/gh-pages/images/Me.png)
 
