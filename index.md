@@ -1,4 +1,4 @@
-### About Me
+### Who am I?
 ![alt_text](https://raw.githubusercontent.com/ZacharyGLouie/Zachary-Louie/gh-pages/images/Me.png)
 
 Hi, my name is Zachary Louie.  I'm currently a 4th year college student at the University of California, Santa Cruz.  I'm currently studying Computer Science and Cognitive Science and some of my interests include, frontend design, backend design, and user experience.  My goal after graduation is to become a UI / UX designer where I hope to provide exceptional user experience on this platform we call the Internet.  
