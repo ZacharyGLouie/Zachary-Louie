@@ -9,9 +9,7 @@ If you would like to learn more about me, please visit my [Linkedin profile](htt
 
 ### Personal Projects
 
-(CMPM 131 UCSC): Trying to solve the problem of finding safe and reliable charging stations for your devices (specifically for college students)
-
-https://www.figma.com/file/CDHs1AWvpRwHSTStnxdTKY/Group-34%3A-High-fi-Prototype?node-id=0%3A1
+(CMPM 131 UCSC): Trying to solve the problem of finding safe and reliable charging stations for your devices (specifically for college students). Check out my project made on [Figma](https://www.figma.com/file/CDHs1AWvpRwHSTStnxdTKY/Group-34%3A-High-fi-Prototype?node-id=0%3A1)
 
 ### Contact Me
 
